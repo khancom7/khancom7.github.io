@@ -1,2 +1,2 @@
-# khancom7.github.io
+# khan Home Page
 Personal Home Page.
