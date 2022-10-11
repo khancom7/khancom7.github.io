@@ -1,2 +1,2 @@
-# khan Home Page
+# Khan Home Page
 Personal Home Page.
